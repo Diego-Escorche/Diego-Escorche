@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Escorche</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a young and passionate backend developer that is getting started on the market. Learning everything that I can while making projects to test it out.</h3>
 
 - 🔭 I’m currently working on [Movie Reserve](https://github.com/Diego-Escorche/Movie-Reserve)
 
