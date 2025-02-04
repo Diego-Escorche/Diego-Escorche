@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MovieSeat](https://github.com/Diego-Escorche/Movie-Reserve)
 
-- 🌱 I’m currently learning **TypeScript, NestJS, React and Angular**
+- 🌱 I’m currently learning **NodeJS, NestJS and React**
 
 - 📫 How to reach me **diegoescorche11@gmail.com**
 
